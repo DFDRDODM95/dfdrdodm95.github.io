@@ -1,16 +1,16 @@
 # Site settings
-title: 기계인간 John Grib
-url: "https://johngrib.github.io"
+title: dfdrdodm95 블로그 
+url: "https://dfdrdodm95.github.io"
 baseurl: ""
 description: >
-    기계인간 블로그
+    dfdrdodm95 블로그
 
 # My information
-email: johngrib82@gmail.com
-author: 기계인간 John Grib
-profile: 유물론자
-twitter_username: John_Grib
-github_username: johngrib
+email: dfdrdodm95@gmail.com
+author: dfdrdodm95
+profile: 
+twitter_username: dfdrdodm95
+github_username: dfdrdodm95
 comment-support: utterances
 
 # Build settings
@@ -38,7 +38,7 @@ collections:
 
 # Comment Service
 giscus:
-  repo: johngrib/johngrib.github.io
+  repo: dfdrdodm95/dfdrdodm95.github.io
   repo_id: SAMPLE-VALUE
   category: Announcements
   category_id: SAMPLE-VALUE
@@ -50,9 +50,9 @@ google_analytics:
 google_adsense:
   client: SAMPLE-VALUE
 
-blame: "https://github.com/johngrib/johngrib.github.io/blame/master/_wiki"
-edit: "https://github.com/johngrib/johngrib.github.io/edit/master/_wiki"
-issue: "https://github.com/johngrib/johngrib.github.io/issues/new"
+blame: "https://github.com/dfdrdodm95/dfdrdodm95.github.io/blame/master/_wiki"
+edit: "https://github.com/dfdrdodm95/dfdrdodm95.github.io/edit/master/_wiki"
+issue: "https://github.com/dfdrdodm95/dfdrdodm95.github.io/issues/new"
 
 timezone: "Asia/Seoul"
 
