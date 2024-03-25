@@ -4,7 +4,7 @@ title   : wiki
 toc     : true
 public  : true
 comment : false
-updated : 2024-03-26 00:10:14 +0900
+updated : 2024-03-26 07:10:45 +0900
 regenerate: true
 ---
 
@@ -12,6 +12,8 @@ regenerate: true
 {:toc}
 
 * [[/book-log-2024]]
+
+* [[/video-log-2024]]
 
 ---
 
