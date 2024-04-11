@@ -3,7 +3,7 @@ layout  : wiki
 title   : 
 summary : 
 date    : 2024-03-26 07:03:48 +0900
-updated : 2024-03-29 15:33:44 +0900
+updated : 2024-04-11 13:19:45 +0900
 tag     : 
 toc     : true
 public  : true
@@ -14,6 +14,11 @@ resource: cbac9a91-e633-4b54-a3eb-544b0a2cf20d
 * TOC
 {:toc}
 ## 실전! 스프링 데이터 JPA
+* [X] 섹션 7. 나머지 기능들
+    * [X] 2024-04-11 Spicifications (명세)
+    * [X] 2024-04-11 Query By Example
+    * [X] 2024-04-11 Projections
+    * [X] 2024-04-11 네이티브 쿼리
 * [X] 섹션 6. 스프링 데이터 JPA 분석
     * [X] 2024-03-29 스프링 데이터 JPA 구현체 분석
     * [X] 2024-03-29 새로운 엔티티를 구별하는 방법
