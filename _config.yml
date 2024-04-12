@@ -39,9 +39,9 @@ collections:
 # Comment Service
 giscus:
   repo: dfdrdodm95/dfdrdodm95.github.io
-  repo_id: SAMPLE-VALUE
+  repo_id: R_kgDOLanuKg
   category: Announcements
-  category_id: SAMPLE-VALUE
+  category_id: DIC_kwDOLanuKs4CepH2
 
 google_analytics:
   ua: SAMPLE-VALUE
