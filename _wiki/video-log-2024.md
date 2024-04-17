@@ -1,9 +1,9 @@
 ---
 layout  : wiki
-title   : 
+title   : 2024년 비디오 로그
 summary : 
 date    : 2024-03-26 07:03:48 +0900
-updated : 2024-04-11 13:41:36 +0900
+updated : 2024-04-17 10:17:08 +0900
 tag     : 
 toc     : true
 public  : true

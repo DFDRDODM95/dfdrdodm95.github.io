@@ -1,9 +1,9 @@
 ---
 layout  : wiki
-title   : 
+title   : 2024년 북로그
 summary : 
 date    : 2024-03-26 00:07:29 +0900
-updated : 2024-04-16 21:40:11 +0900
+updated : 2024-04-17 10:16:49 +0900
 tag     : 
 toc     : true
 public  : true
