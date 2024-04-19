@@ -4,7 +4,7 @@ title   : wiki
 toc     : true
 public  : true
 comment : false
-updated : 2024-04-19 13:17:50 +0900
+updated : 2024-04-19 14:45:58 +0900
 regenerate: true
 ---
 
@@ -16,7 +16,8 @@ regenerate: true
 [[/video-log-2024]]
 
 ## [[article]]
-[[/article/successful-study/20240419-study-idea]]
+* [[/article/successful-study/20240419-study-idea]]
+* [[/article/successful-study/20240419-first-plan]]
 
 ---
 
