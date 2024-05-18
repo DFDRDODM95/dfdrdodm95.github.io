@@ -3,7 +3,7 @@ layout  : wiki
 title   : 2024년 비디오 로그
 summary : 
 date    : 2024-03-26 07:03:48 +0900
-updated : 2024-05-18 17:55:56 +0900
+updated : 2024-05-18 20:58:13 +0900
 tag     : 
 toc     : true
 public  : true
@@ -15,7 +15,24 @@ resource: cbac9a91-e633-4b54-a3eb-544b0a2cf20d
 {:toc}
 
 ## 비전공자의 전공자 따라잡기 - 네트워크, HTTP
-* [O] 섹션 1. OSI 7계층
+* [.] 섹션 2. HTTP
+    - [X] 2024-05-18 네트워크탭 사용하기
+    - [X] 2024-05-18 RFC 보는 방법
+    - [X] 2024-05-18 주소 구성 체계(URL, URI, Origin)
+    - [ ] 헤더 한 번 훑고 가기
+    - [ ] HTTP 메서드와 REST API
+    - [ ] 안전한 메서드, 멱등성 메서드
+    - [ ] 상태 코드(1XX, 2XX)
+    - [ ] 직접 서버 실행해보기 + 3XX 상태 코드
+    - [ ] 에러 상태 코드(4XX, 5XX)
+    - [ ] 컨텐츠 협상과 MIME Type
+    - [ ] Keep-Alive, Date, Transfer-Encoding
+    - [ ] Authorization, 기타 헤더, 커스텀 헤더
+    - [ ] 쿠키
+    - [ ] 캐시(Cache-Control)
+    - [ ] 캐시 신선도 검사
+    - [ ] CORS
+* [X] 섹션 1. OSI 7계층
     * [X] 2024-05-18 클라이언트-서버 모델, OSI 7계층 소개
     * [X] 2024-05-18 물리 계층(L1, Physical)
     * [X] 2024-05-18 데이터링크계층(L2, Data Link)
@@ -25,8 +42,8 @@ resource: cbac9a91-e633-4b54-a3eb-544b0a2cf20d
     * [X] 2024-05-18 총정리
     * [X] 2024-05-18 데이터 전체 흐름
     * [X] 2024-05-18 DNS와 레코드
-    * [ ] 2024-05-18 와이어 샤크(wireshark) 사용하기
-    * [ ] 2024-05-18 3-way, TLS 핸드쉐이크
+    * [X] 2024-05-18 와이어 샤크(wireshark) 사용하기
+    * [X] 2024-05-18 3-way, TLS 핸드쉐이크
 
 ## 실전! 스프링 데이터 JPA
 * [X] 섹션 7. 나머지 기능들
