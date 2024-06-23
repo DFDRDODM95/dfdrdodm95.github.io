@@ -3,7 +3,7 @@ layout  : wiki
 title   : 2024년 비디오 로그
 summary : 
 date    : 2024-03-26 07:03:48 +0900
-updated : 2024-05-26 11:52:17 +0900
+updated : 2024-06-23 00:08:50 +0900
 tag     : 
 toc     : true
 public  : true
@@ -64,7 +64,7 @@ resource: cbac9a91-e633-4b54-a3eb-544b0a2cf20d
     - [ ] 쿠키
     - [ ] 캐시(Cache-Control)
     - [ ] 캐시 신선도 검사
-    - [ ] CORS
+    - [X] 2024-06-22 CORS
 * [X] 섹션 1. OSI 7계층
     * [X] 2024-05-18 클라이언트-서버 모델, OSI 7계층 소개
     * [X] 2024-05-18 물리 계층(L1, Physical)
