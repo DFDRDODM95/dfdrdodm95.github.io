@@ -3,7 +3,7 @@ layout  : wiki
 title   : 2024년 비디오 로그
 summary : 
 date    : 2024-03-26 07:03:48 +0900
-updated : 2024-07-23 03:42:16 +0900
+updated : 2024-08-04 23:20:40 +0900
 tag     : 
 toc     : true
 public  : true
@@ -13,6 +13,9 @@ resource: cbac9a91-e633-4b54-a3eb-544b0a2cf20d
 ---
 * TOC
 {:toc}
+
+## AWS Certified Solutions Architect Associate [udemy](https://www.udemy.com/course/best-aws-certified-solutions-architect-associate)
+* [X] 섹션 11. 클래식 솔루션 아키텍쳐 토론
 
 ## Docker & Kubernetes : 실전 가이드
 * [X] Docker 컨테이너 배포하기
