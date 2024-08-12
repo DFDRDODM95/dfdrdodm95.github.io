@@ -3,7 +3,7 @@ layout  : wiki
 title   : 2024년 비디오 로그
 summary : 
 date    : 2024-03-26 07:03:48 +0900
-updated : 2024-08-04 23:20:40 +0900
+updated : 2024-08-12 23:54:29 +0900
 tag     : 
 toc     : true
 public  : true
@@ -13,6 +13,16 @@ resource: cbac9a91-e633-4b54-a3eb-544b0a2cf20d
 ---
 * TOC
 {:toc}
+
+## 실전! Querydsl
+* [X] 섹션 7. 스프링 데이터 JPA가 제공하는 Querydsl 기능
+* [X] 섹션 6. 실무 활용 - 스프링 데이터 JPA와 Querydsl
+* [X] 섹션 5. 실무 활용 - 순수 JPA와 Querydsl
+* [X] 섹션 4. 중급 문법
+* [X] 섹션 3. 기본 문법
+* [X] 섹션 1. 프로젝트 환경설정
+* [X] 섹션 0. Querydsl 소개
+
 
 ## AWS Certified Solutions Architect Associate [udemy](https://www.udemy.com/course/best-aws-certified-solutions-architect-associate)
 * [X] 섹션 11. 클래식 솔루션 아키텍쳐 토론
