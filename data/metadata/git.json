@@ -1,0 +1,12 @@
+{
+ "type": "wiki",
+ "title": "",
+ "summary": "",
+ "parent": "",
+ "url": "/wiki/git",
+ "updated": "2024-10-27 11:43:49 +0900",
+ "resource": "d0/cabac0-da80-4ad8-bab1-f02c3ecebcb2",
+ "children": [
+  "git/force-exit-git-commit-buffer"
+ ]
+}
