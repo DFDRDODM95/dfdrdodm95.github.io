@@ -3,7 +3,7 @@ layout  : wiki
 title   : 2024년 비디오 로그
 summary : 
 date    : 2024-03-26 07:03:48 +0900
-updated : 2024-08-12 23:54:29 +0900
+updated : 2024-11-17 03:04:45 +0900
 tag     : 
 toc     : true
 public  : true
@@ -13,6 +13,9 @@ resource: cbac9a91-e633-4b54-a3eb-544b0a2cf20d
 ---
 * TOC
 {:toc}
+
+## 견고한 결제 시스템 구축
+* [X]
 
 ## 실전! Querydsl
 * [X] 섹션 7. 스프링 데이터 JPA가 제공하는 Querydsl 기능
